@@ -11,7 +11,7 @@ int main() {
 	//declare the variable
 	int number;				// this variable will store the number you want to check
 
-	//Print the announcement for the user!
+	//Print the announcement for the user to enter the input!
 	cout << "Please enter the number to check: " << endl;
 	cin >> number;
 
