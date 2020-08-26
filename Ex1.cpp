@@ -4,7 +4,7 @@
 //Here is your library where can help you use the function or command
 #include<iostream>					//This library is used for the input and output
 
-using namespace std;
+using namespace std;					//std means standard, it will avoid duplicate declaration errors when we use the command of iostream lib
 
 //Create a function main
 int main() {
