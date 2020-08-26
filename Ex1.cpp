@@ -8,7 +8,7 @@ using namespace std;					//std means standard, it will avoid duplicate declarati
 
 //Create a function main
 int main() {
-	//choose the line 12 to 15 and press ctrl + shift + / to remove the note status and run!!!! to promt the input from user!
+	//choose the line 12 to 15 and press ctrl + shift + / to remove the note status and run!!!! to prompt the user enter the input!
 	//string input;
 	//cout << "Please enter an input like announcement: ";
 	//cin >> input;
