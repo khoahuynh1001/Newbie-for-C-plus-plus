@@ -13,7 +13,7 @@ int main() {
 	//cout << "Please enter an input like announcement: ";
 	//cin >> input;
 	//cout << input;
-	cout << "Welcome to C programing" << endl;				//endl will have you make a newline, look like you press ENTER!
+	cout << "Welcome to C programing" << endl;	//endl will have you make a newline, you also can write another way with \n: cout << "Welcome to C programing \n"
 	cout << "Complete Ex2....!";
 	return 0;			//with the int function you should return a value true or the variable!
 }
